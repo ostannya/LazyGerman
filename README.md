@@ -1,2 +1,2 @@
 # LazyGerman
-Learning German through video subtitile
+Learning German through videos with subtitles
